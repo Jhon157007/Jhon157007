@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem-Vindo 👋
 
-<!--
-**Jhon157007/Jhon157007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Augusto
 
-Here are some ideas to get you started:
+-Estou estudando na Alura (http://www.alura.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Meu contato:📮
+
+ joao2405pinheiro@gmail.com
+
+
+![]()
+ 
