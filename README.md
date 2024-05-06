@@ -2,7 +2,7 @@
 
 Meu nome é João Augusto
 
--Estou estudando na Alura (http://www.alura.br)
+-Estou estudando na Alura http://www.alura.br
 
 -Estou desenvolvendo na linguagem JavaScript
 
@@ -13,5 +13,5 @@ Meu nome é João Augusto
  joao2405pinheiro@gmail.com
 
 
-![]()
+![](https://media1.tenor.com/m/n321Fs2OTgoAAAAC/audi-audi-logo.gif)
  
